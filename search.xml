@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第二篇文章Java</title>
+      <link href="/2023/05/19/2/"/>
+      <url>/2023/05/19/2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第二篇文章-2023-年-5-月-20-日-星期六"><a href="#这是我的第二篇文章-2023-年-5-月-20-日-星期六" class="headerlink" title="这是我的第二篇文章 2023 年 5 月 20 日 星期六"></a>这是我的第二篇文章 2023 年 5 月 20 日 星期六</h2><h3 id="Create-a-new-Java"><a href="#Create-a-new-Java" class="headerlink" title="Create a new Java"></a>Create a new Java</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">public class <span class="function"><span class="title">hello</span></span>()&#123;</span><br><span class="line">    public static void main(Sting[] args)&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World!&quot;</span>)</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章Java</title>
+      <link href="/2023/05/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0Test/"/>
+      <url>/2023/05/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0Test/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章-2023-年-5-月-19-日-星期五-晚上-21-点-41-分"><a href="#这是我的第一篇文章-2023-年-5-月-19-日-星期五-晚上-21-点-41-分" class="headerlink" title="这是我的第一篇文章 2023 年 5 月 19 日 星期五 晚上 21 点 41 分"></a>这是我的第一篇文章 2023 年 5 月 19 日 星期五 晚上 21 点 41 分</h2><h3 id="Create-a-new-Java"><a href="#Create-a-new-Java" class="headerlink" title="Create a new Java"></a>Create a new Java</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">public class <span class="function"><span class="title">hello</span></span>()&#123;</span><br><span class="line">    public static void main(Sting[] args)&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World!&quot;</span>)</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+          <category> 教程 </category>
+          
+          <category> 生活趣闻 </category>
+          
+          <category> Vue </category>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
