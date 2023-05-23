@@ -64,3 +64,9 @@
     background-position: 0% 50%;
   }
 }
+
+.loading-img {
+  /* background: url(../../../blog/node_modules/hexo-theme-butterfly/source/img/avatar.jpg) no-repeat center center; */
+  background: url(https://ninety-jun.github.io/img/avatar.jpg) no-repeat center center;
+  background-size: cover;
+}
