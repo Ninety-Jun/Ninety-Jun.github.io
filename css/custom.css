@@ -91,7 +91,7 @@
 }
 
  /* 侧边栏渐变 */
- /* #aside-content > .card-widget.card-info {
+ #aside-content > .card-widget.card-info {
   background: linear-gradient(-45deg, var(), #031764, #150136, #67044d);
   background-size: 400%;
   box-shadow: var( rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px);
@@ -102,7 +102,7 @@
 .site-data > a .headline,
 .site-data > a .length-num {
   color: var(white);
-} */
+}
 
 /* 侧边栏个人信息卡片动态渐变色 */
 #aside-content > .card-widget.card-info {
